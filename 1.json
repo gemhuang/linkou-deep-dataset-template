@@ -1,0 +1,44 @@
+{
+    "dataset": {
+        "id": "",
+        "provider_code": "",
+        "provider_name": "",
+        "title": "請輸入：資料集標題",
+        "sub_title": "請輸入：資料集副標題",
+        "description": "請輸入：資料集說明；格式：HTML",
+        "ranking": "",
+        "visibility": "",
+        "license": "",
+        "update_time": "",
+        "imgsrc": "請輸入：unsplash上之代表性圖片 (可不填)",
+        "data_zip_size": ""
+    },
+    "datasetfiles": [
+        {
+            "id": "",
+            "file_name": "請輸入：資料集檔名",
+            "description": "請輸入：資料集檔案說明；格式：HTML",
+            "file_size": "",
+            "file_type": "",
+            "file_fields": []
+        }
+    ],
+    "api": [
+        {
+            "id": "",
+            "api_name": "請輸入：API 名稱",
+            "url": "請輸入：API URL 示意",
+            "method": "請輸入：API 呼叫方式 (GET|POST|PUT|DELETE)",
+            "format": "請輸入：API 回傳格式 (JSON|XML|PLAIN)",
+            "frequency": [ // 請輸入：API 內容更新頻率，不定期 | ["n", "分鐘|小時|天"]
+                "5",
+                "分鐘"
+            ],
+            "authentication": "請輸入：API 認證機制 (有|無)",
+            "license": "",
+            "query_mode": "請輸入：API 查詢方式 (HTTP|ReST|SOAP|WebSocket)",
+            "swagger_file_name": "",
+            "check_time": ""
+        }
+    ]
+}

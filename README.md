@@ -35,3 +35,15 @@ api 區塊的內容，在每個 json 檔裡可有可無，若沒有 api，即代
 1. 建立 JSON 檔: 將第 n 個資料集的說明內容編輯完成後，命名為 n.json 
 2. 建立資料集內容: 將第 n 個資料集的實際內容，壓縮成 `data.zip` 檔案，放在名為 n 的目錄下即可
 
+## 品牌說明
+
+品牌資料，請先修改 BRAND.json 的檔名為自己的品牌代碼，並把品牌的 logo 放入，置換 BRAND.png，檔名也是品牌代碼。並編寫以下欄位：
+
+1. code: 品牌代碼，英文與數字，不可有空格或特殊符號，大小寫有區分
+2. name: 品牌全名
+3. imgsrc: 一開始所放之品牌 logo 圖片檔名
+4. official_tel: 聯絡電話
+5. official_email: 聯絡信箱
+6. address: 聯絡地址，格式為：郵遞區號 + 地址
+7. website: 品牌網址
+8. description: 品牌簡介，格式為：HTML

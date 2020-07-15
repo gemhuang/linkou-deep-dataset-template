@@ -3,21 +3,21 @@
         "id": "",
         "provider_code": "",
         "provider_name": "",
-        "title": "請輸入：資料集標題",
-        "sub_title": "請輸入：資料集副標題",
-        "description": "請輸入：資料集說明；格式：HTML",
+        "title": "電池狀態與定位紀錄資訊",
+        "sub_title": "智慧物聯網物流車隊之電池狀態與 GPS 定位紀錄資訊",
+        "description": "透過每十五秒鐘記錄一筆之電池電量狀態，以及 GPS 定位紀錄，除藉由 BMS 計算里程與電量管理之外，更能提供物流車隊管理模式上進行創新與加値",
         "ranking": "",
         "visibility": "",
         "license": "",
         "update_time": "",
-        "imgsrc": "請輸入：unsplash上之代表性圖片 (可不填)",
+        "imgsrc": "https://images.unsplash.com/photo-1592318348310-f31b61a931c8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2400&q=80",
         "data_zip_size": ""
     },
     "datasetfiles": [
         {
             "id": "",
-            "file_name": "請輸入：資料集檔名",
-            "description": "請輸入：資料集檔案說明；格式：HTML",
+            "file_name": "shareCSV.csv",
+            "description": "電池狀態及定位紀錄之測試數據",
             "file_size": "",
             "file_type": "",
             "file_fields": []

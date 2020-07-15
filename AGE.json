@@ -1,0 +1,14 @@
+{
+    "provider": {
+        "id": "4f5a306f-391f-4bd4-bf31-1823f9dca579",
+        "code": "AGE",
+        "name": "合谷新能源股份有限公司",
+        "imgsrc": "AGE.png",
+        "official_tel": "03-451-9901",
+        "official_email": "",
+        "address": "",
+        "website": "https://www.allgoodenergy.com.tw/",
+        "description": "合谷新能源的Energile能源技術運用專利演算法+大數據快速辨識電池剩餘價值<br>
+        並開放API工具協助使用者、業者及研究機構快速瞭解電能利用<br>將電池在適當的生命週期運用在不同載具上，使其產生二次利用價值"
+    }
+}
